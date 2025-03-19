@@ -1,0 +1,11 @@
+hi, i have a flutter midterm i need help with, i have attached all the resources and midterm document here. 
+here is my existing code which you must modify to do this midterm on it. 
+
+this is amazing! however, there a few things you need to fix. first, please make sure the products are displayed in uniform sized tiles. meaning, the tiles shouldnt be random sizes but rather, the same uniform sized blocks like shown in the ui screenshot. secondly, the rating is on the right hand side of category name so please fix that. thirdly, i added the coming_soon.json file in assets folder manually so please read that and adjust the code accordingly. i noticed there are discounts in prices in the screenshot (along with sale icon on the tile) that arent appearing in my app, why is that? also please make the add to cart and product category adjust to theme. i have attached a daytime screenshot as well for better demonstration. 
+
+this is great, however it still needs a little improvements. firstly, can you please make sure the tile doesnt have empty spaces in it? currently it is rlly empty the and text is smaller than shown in the screenshot. secondly, please make the add to cart and category button correspond to the changing theme as well (see how different they are in light and dark mode). also please dont add a loading screen to changing themes. 
+
+
+amazing, however, needs a lot of tweaking to get to the perfect level. firstly, the tiles are overflowing ny 1.9 pixels. secondly, please remove the loading screen when changing themes. change theme without a loading screen in between. thirdly, im adding both day and night ver of the category buttom, add to cart button and heard symbol in each tile appearance to show you how it differs in both. please make it exactly like that. 
+
+perfect! we are almost done. just fix a few things for me please. the top tiles are still overflowing by 11 pixels so please adjust that. i donot want a loading screen when the theme is changing please remove that. the product category should appear according to the product please incorporate that from the api. lastly, the add to card button in day time is a lighter shade of purple (similar to category button) so please fix that as well.  
