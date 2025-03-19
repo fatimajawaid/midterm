@@ -383,13 +383,13 @@ class ProductCard extends StatelessWidget {
                         style: TextStyle(
                           fontSize: 13,
                           fontWeight: FontWeight.bold,
-                          color: isDark ? Colors.deepPurple : Colors.white,
+                          color: isDark ? Colors.deepPurple : Colors.deepPurple,
                         ),
                       ),
                       style: ElevatedButton.styleFrom(
                         backgroundColor: isDark 
                           ? Colors.black 
-                          : Colors.deepPurple.withOpacity(0.5),
+                          : Colors.deepPurple.withOpacity(0.1),
                         padding: const EdgeInsets.symmetric(horizontal: 6),
                         shape: RoundedRectangleBorder(
                           borderRadius: BorderRadius.circular(6),
